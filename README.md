@@ -61,14 +61,16 @@ The system includes:
 4. Description of eye diagram changes with increasing fiber length.
 
 ---
+<img width="736" height="388" alt="image" src="https://github.com/user-attachments/assets/a8b49426-b5a6-4b4b-96ea-adf6ecc9e531" />
 
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
 
 <img width="1599" height="606" alt="image" src="https://github.com/user-attachments/assets/0d70c610-c8c3-49d9-91ba-62031359da9e" />
+<img width="879" height="323" alt="image" src="https://github.com/user-attachments/assets/3bc2ee80-d4fc-4500-8e13-a81921301885" />
 
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus the optiperformer has been installed successfully and sample file has been run
